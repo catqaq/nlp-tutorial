@@ -82,3 +82,16 @@
 - Tae Hwan Jung(Jeff Jung) @graykode
 - Author Email : nlkey2022@gmail.com
 - Acknowledgements to [mojitok](http://mojitok.com/) as NLP Research Internship.
+
+## 中文练习
+
+### 文本分类
+
+- 基于CNN/RMM模型
+
+- 基于transformers类模型：如bert
+
+### 序列标注
+- LSTM+CRF
+- 基于transformers类模型：如bert
+
